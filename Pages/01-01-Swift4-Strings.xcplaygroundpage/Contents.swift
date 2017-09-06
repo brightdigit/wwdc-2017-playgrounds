@@ -1,6 +1,7 @@
+//: [Previous](@previous)
+
 //An Example of how to treat a String as an array of characters
 
-import Cocoa
 
 var str = "🎉Welcome to Lansing Cocoaheads, at the 🍎 Store!!🍾"
 
@@ -24,3 +25,5 @@ let splitStrings = str.components(separatedBy: ",")
 zip(splitStrings.first!, splitStrings.last!).reduce("") { (current : String, characters : (Character, Character)) -> String in
   return current.appending(String(current.count % 2 == 1 ? characters.1 : characters.0))
 }
+
+//: [Next](@next)

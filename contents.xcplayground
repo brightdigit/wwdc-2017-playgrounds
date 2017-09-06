@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='01-01-Swift4-Strings'/>
+        <page name='01-02-Swift4-Codable'/>
+        <page name='02-01-iPad-DragAndDrop'/>
+        <page name='02-02-iPad-FilesApp'/>
+        <page name='03-01-CoreML-Base'/>
+        <page name='03-02-CoreML-Vision'/>
+        <page name='03-03-CoreML-ARKit'/>
+    </pages>
+</playground>
