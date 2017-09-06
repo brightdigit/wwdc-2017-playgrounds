@@ -2,7 +2,6 @@
 
 //An Example of how to treat a String as an array of characters
 
-import Cocoa
 
 var str = "🎉Welcome to Lansing Cocoaheads, at the 🍎 Store!!🍾"
 
